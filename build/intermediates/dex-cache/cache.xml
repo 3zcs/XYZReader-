@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/azcs/AndroidStudioProjects/XYZReader/libs/volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/home/azcs/AndroidStudioProjects/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/2/volley_034508c961d08e1a567487a60232d0a1f354ad6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/azcs/AndroidStudioProjects/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/jars/1/1a/dependencies.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="458cd908c67c52ff30f87fab444c9781a4734c7b">
+        <dex dex="/home/azcs/AndroidStudioProjects/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/1a/dependencies_52ce3628513db379805b69f355e457612d35760e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/azcs/AndroidStudioProjects/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/jars/1/5/main_slice.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="acc973049fb2390f728d43634c336870ba94804d">
+        <dex dex="/home/azcs/AndroidStudioProjects/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/main_slice_jar/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/azcs/AndroidStudioProjects/XYZReader/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="78b6707cd03b043de1ce0bf60bac7b8ed0becf1f">
+        <dex dex="/home/azcs/AndroidStudioProjects/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3480bb4ef691e92aa412f0b9cdbe98ac71d6fcb7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/azcs/AndroidStudioProjects/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/jars/1/5/main_sliceb.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="59f10722a6a1e70df3bcece83a13e75f9c66e830">
+        <dex dex="/home/azcs/AndroidStudioProjects/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/main_sliceb_jar/classes.dex" />
+    </item>
+
+</items>
